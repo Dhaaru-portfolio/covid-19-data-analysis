@@ -19,4 +19,4 @@ Analyzed global COVID-19 dataset to understand spread and impact across countrie
 3. Deaths vs Recovered Comparison
 
 ## 👩‍💻 Author
-Dhaarani K - Aspiring Data Analyst
+Dhaarani K - Data Analyst
